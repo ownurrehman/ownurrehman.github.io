@@ -35,7 +35,7 @@ h3{color:var(--ink);font-size:18px;margin:26px 0 6px}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
 .cards a.card{display:block;text-decoration:none;color:var(--text)}
 .cards a.card:hover{border-color:var(--red)}
-.cards a.card b{display:block;font-family:"Russo One",sans-serif;font-weight:400;color:var(--ink);font-size:20px;margin-bottom:6px}
+.card b{display:block;font-family:"Russo One",sans-serif;font-weight:400;color:var(--ink);font-size:20px;margin-bottom:6px}
 .legal h1{font-family:"Russo One",sans-serif;font-weight:400;color:var(--ink);font-size:clamp(30px,5vw,42px);line-height:1.1;margin:0 0 6px}
 .legal .date{color:var(--dim);margin:0 0 28px}
 .legal ul{padding-left:22px}
